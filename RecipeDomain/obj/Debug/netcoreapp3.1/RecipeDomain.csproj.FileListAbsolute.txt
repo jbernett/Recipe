@@ -1,0 +1,16 @@
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\bin\Debug\netcoreapp3.1\RecipeDomain.deps.json
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\bin\Debug\netcoreapp3.1\RecipeDomain.dll
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\bin\Debug\netcoreapp3.1\RecipeDomain.pdb
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.AssemblyInfoInputs.cache
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.AssemblyInfo.cs
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.dll
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.pdb
+C:\Users\julia.bernett\source\repos\RecipeDomain\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.csprojAssemblyReference.cache
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\bin\Debug\netcoreapp3.1\RecipeDomain.deps.json
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\bin\Debug\netcoreapp3.1\RecipeDomain.dll
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\bin\Debug\netcoreapp3.1\RecipeDomain.pdb
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.AssemblyInfoInputs.cache
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.AssemblyInfo.cs
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.dll
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.pdb
+C:\Users\julia.bernett\source\repos\Recipe\RecipeDomain\obj\Debug\netcoreapp3.1\RecipeDomain.csprojAssemblyReference.cache
